@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">EYE GUARD</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="action_standard_mode">Standard Mode</string>
+    <string name="action_realtime_mode">Realtime Mode</string>
+
+    <string name="fit_status">Fit Status</string>
+    <string name="walking">Walking</string>
+    <string name="noise_status">Noise Status</string>
+    <string name="power_left">Power Left</string>
+    <string name="eye_move_up">Eye Move Up</string>
+    <string name="eye_move_down">Eye Move Down</string>
+    <string name="eye_move_left">Eye Move Left</string>
+    <string name="eye_move_right">Eye Move Right</string>
+    <string name="blink_strength">Blink Strength</string>
+    <string name="blink_speed">Blink Speed</string>
+    <string name="roll">Roll</string>
+    <string name="pitch">Pitch</string>
+    <string name="yaw">Yaw</string>
+    <string name="acc_x">Acc X</string>
+    <string name="acc_y">Acc Y</string>
+    <string name="acc_z">Acc Z</string>
+
+
+    <string name="focus_level">Focus Level</string>
+    <string name="sleepiness_level">Sleepiness Level</string>
+    <string name="is_eog_valid">Is EOG Valid</string>
+    <string name="num_of_blink">num of Blink</string>
+    <string name="num_of_blink_burst">num of Blink Burst</string>
+    <string name="foot_fold_left">Foot Fold Left</string>
+    <string name="foot_fold_right">Foot Fold Right</string>
+    <string name="pitch_diff">Pitch Diff</string>
+    <string name="pitch_average">Pitch Average</string>
+    <string name="roll_diff">Roll Diff</string>
+    <string name="roll_average">Roll Average</string>
+    <string name="num_of_steps_280">num of Steps (280)</string>
+    <string name="num_of_steps_310">num of Steps (310)</string>
+    <string name="num_of_steps_340">num of Steps (340)</string>
+    <string name="num_of_steps_370">num of Steps (370)</string>
+    <string name="num_of_steps_400">num of Steps (400)</string>
+    <string name="num_of_steps_430">num of Steps (430)</string>
+    <string name="num_of_steps_460">num of Steps (460)</string>
+    <string name="num_of_steps_500">num of Steps (500)</string>
+    <string name="num_of_steps_530">num of Steps (530)</string>
+    <string name="num_of_steps_560">num of Steps (560)</string>
+    <string name="num_of_steps_590">num of Steps (590)</string>
+    <string name="num_of_steps_620">num of Steps (620)</string>
+    <string name="num_of_steps_650">num of Steps (650)</string>
+    <string name="num_of_steps_680">num of Steps (680)</string>
+    <string name="num_of_steps_710">num of Steps (710)</string>
+    <string name="num_of_steps_750">num of Steps (750)</string>
+    <string name="num_of_steps_780">num of Steps (780)</string>
+    <string name="num_of_steps_810">num of Steps (810)</string>
+    <string name="num_of_steps_840">num of Steps (840)</string>
+    <string name="num_of_steps_870">num of Steps (870)</string>
+    <string name="num_of_steps_900">num of Steps (900)</string>
+    <string name="num_of_steps_930">num of Steps (930)</string>
+    <string name="num_of_steps_960">num of Steps (960)</string>
+    <string name="num_of_steps_1000">num of Steps (1000)</string>
+    <string name="head_move_big_vertical_count">Head Move Big Vertical Count</string>
+    <string name="head_move_big_horizontal_count">Head Move Big Horizontal Count</string>
+    <string name="head_move_vertical_count">Head Move Vertical Count</string>
+    <string name="head_move_horizontal_count">Head Move Horizontal Count</string>
+    <string name="cadence">cadence</string>
+    <string name="vertical_eye_move">Vertical Eye Move</string>
+    <string name="horizontal_eye_move">Horizontal Eye Move</string>
+    <string name="big_vertical_eye_move">Big Vertical Eye Move</string>
+    <string name="big_horizontal_eye_move">Big Horizontal Eye Move</string>
+    <string name="eog_noise_duration">EOG Noise Duration</string>
+    <string name="timestamp">Timestamp</string>
+
+    <string-array name="custom_weekdays">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wen</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+
+    <string-array name="custom_months">
+        <item>JAN</item>
+        <item>Feb</item>
+        <item>MARCH</item>
+        <item>April</item>
+        <item>MAY</item>
+        <item>June</item>
+        <item>JULY</item>
+        <item>Aug</item>
+        <item>SEPT</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>DEC</item>
+    </string-array>
+</resources>

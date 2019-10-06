@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477686449182",
+    "firebase_url": "https://jinsmeme-2bb3a.firebaseio.com",
+    "project_id": "jinsmeme-2bb3a",
+    "storage_bucket": "jinsmeme-2bb3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477686449182:android:4051c9f9a7a974a94b9a0f",
+        "android_client_info": {
+          "package_name": "com.jins_jp.memelib_realtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477686449182-c3v0unudk9vf6otoibfhvrpjcq2n4ede.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jins_jp.memelib_realtime",
+            "certificate_hash": "77b9518157a9f2fbed527990d9d2786cfb3f3667"
+          }
+        },
+        {
+          "client_id": "477686449182-h9edscm9vtk970ap4pcnovg3tgu5u9pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkd6V2Zqe5B0glTT9cLbTOmsHZ-3BYoyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477686449182-h9edscm9vtk970ap4pcnovg3tgu5u9pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
